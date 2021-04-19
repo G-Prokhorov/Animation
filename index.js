@@ -25,5 +25,4 @@ function show() {
 
 notify.addEventListener("click", () => {
     open("https://t.me/g_prkhrv");
-    show();
 })
